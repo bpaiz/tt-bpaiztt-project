@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The origin or the rings change with the input bits from 5 to 7. The functionality fo bits 0 and 1 is the same as temaplate.
 
 ## How to test
 
-Explain how to use your project
+Play with different values of bits from 5 to 7 on the inputs
 
 ## External hardware
 
